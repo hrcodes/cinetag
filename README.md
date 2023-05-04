@@ -1,6 +1,11 @@
 # Projeto CINETAG - aprendendo React
 
+PROJECT: https://organo-react-learning.vercel.app/
+
 [Figma](https://www.figma.com/file/UtiurQgr5yH1ClbLzDqVHl/2802---React%3A-Praticando-React-com-Js?node-id=12-2)
+
+# ScreenShot
+![image](https://user-images.githubusercontent.com/43011938/236246749-2d502a9d-d582-4421-b931-acacf89b55ae.png)
 
 # Getting Started with Create React App
 
